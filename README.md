@@ -25,6 +25,7 @@ This project implements a simple file downloader using **socket programming** in
 - [Introduction](#introduction)
 - [How It Works](#how-it-works)
 - [Installation](#installation)
+- [Prerequisites](#prerequisites)
 
 ---
 
@@ -48,6 +49,8 @@ The File Downloader project demonstrates the use of **socket programming** to tr
 
 - A C compiler (e.g., GCC, MinGW).
 - Basic knowledge of socket programming.
+- A working internet connection for socket communication testing.
+- Administrator privileges to run the program on certain systems.
 
 ### Steps
 
@@ -56,4 +59,3 @@ The File Downloader project demonstrates the use of **socket programming** to tr
    git clone https://github.com/Acadaniket-2001/Socket-File-Downloader.git
    cd Socket-File-Downloader
 
-   
