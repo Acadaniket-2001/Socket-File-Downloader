@@ -25,10 +25,6 @@ This project implements a simple file downloader using **socket programming** in
 - [Introduction](#introduction)
 - [How It Works](#how-it-works)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
